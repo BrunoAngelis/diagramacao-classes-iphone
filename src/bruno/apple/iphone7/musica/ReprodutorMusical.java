@@ -1,4 +1,4 @@
-package bruno.apple.iphone7;
+package bruno.apple.iphone7.musica;
 
 public interface ReprodutorMusical{
     public void tocarMusia();

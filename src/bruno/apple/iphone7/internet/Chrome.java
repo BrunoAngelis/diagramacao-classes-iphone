@@ -1,4 +1,4 @@
-package bruno.apple.iphone7;
+package bruno.apple.iphone7.internet;
 
 public class Chrome implements NavegadoroInternet{
     @Override

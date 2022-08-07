@@ -1,4 +1,4 @@
-package bruno.apple.iphone7;
+package bruno.apple.iphone7.telefone;
 
 public interface AparelhoTelefonico {
     public void ligar();

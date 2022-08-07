@@ -1,6 +1,4 @@
-package bruno.apple.iphone7;
-
-import java.sql.SQLOutput;
+package bruno.apple.iphone7.telefone;
 
 public class MotorolaV3 implements AparelhoTelefonico {
     @Override

@@ -1,4 +1,4 @@
-package bruno.apple.iphone7;
+package bruno.apple.iphone7.telefone;
 
 public class NokiaC3 implements AparelhoTelefonico{
 

@@ -1,6 +1,4 @@
-package bruno.apple.iphone7;
-
-import javax.swing.plaf.synth.SynthOptionPaneUI;
+package bruno.apple.iphone7.musica;
 
 public class Mp3 implements ReprodutorMusical {
 
